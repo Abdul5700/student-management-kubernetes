@@ -1,11 +1,5 @@
 # Student Management System: Kubernetes Deployment & Persistent Storage (PV & PVC)
 
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-v1.28%2B-blue?logo=kubernetes&logoColor=white)](https://kubernetes.io/)
-[![Docker](https://img.shields.io/badge/Docker-Containerized-2496ED?logo=docker&logoColor=white)](https://www.docker.com/)
-[![React](https://img.shields.io/badge/Frontend-React_18_%2B_Vite-61DAFB?logo=react&logoColor=black)](https://react.dev/)
-[![NodeJS](https://img.shields.io/badge/Backend-Node.js_%26_Express-339933?logo=nodedotjs&logoColor=white)](https://nodejs.org/)
-[![MySQL](https://img.shields.io/badge/Database-MySQL_8.0-4479A1?logo=mysql&logoColor=white)](https://www.mysql.com/)
-
 An enterprise-grade, three-tier cloud-native web application orchestrated on **Kubernetes (Kind / Minikube / Docker Desktop)**. This repository implements **Problem 12 – Persistent Storage Using PersistentVolumes (PV) and PersistentVolumeClaims (PVC)** and **Problem 19 – Multi-Tier Service Networking** for Cloud Computing Lab Evaluations.
 
 ---
